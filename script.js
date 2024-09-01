@@ -63,8 +63,3 @@ window.onload = ()=>{
     loadMenuBoard(menuItems);
     menuFilter.addEventListener('click', showVeggieToggle)
 }
-
-
-// 로드 시점
-
-// 서포트 여부
