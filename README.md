@@ -1,7 +1,7 @@
 ## 한식 메뉴 렌더링 하기
 
 ### 구현 영상
-<img src='https://github.com/user-attachments/assets/0bd44374-b5c4-4795-8245-76556f34df03' width='30%' height='30%'>
+<img src='https://github.com/user-attachments/assets/0bd44374-b5c4-4795-8245-76556f34df03' width='35%' height='35%'>
 
 
 ### 요구사항
